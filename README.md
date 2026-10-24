@@ -5,9 +5,9 @@
 
 ---
 
-# Dokumentasi: LexiCode Data Translator
+# Dokumentasi: AsciiMachine
 
-LexiCode adalah aplikasi web sederhana yang dirancang untuk menerjemahkan input teks bahasa manusia ke dalam representasi data komputer (bahasa mesin dan enkoding) secara *real-time*.
+AsciiMachine adalah aplikasi web sederhana yang dirancang untuk menerjemahkan input teks bahasa manusia ke dalam representasi data komputer (bahasa mesin dan enkoding) secara *real-time*.
 
 ## Cara Penggunaan
 1. Buka file `index.html` menggunakan web browser (Google Chrome, Mozilla Firefox, atau Safari). Tidak perlu instalasi atau kompilasi server.
